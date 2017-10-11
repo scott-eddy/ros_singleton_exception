@@ -1,0 +1,1 @@
+# ros_singleton_exception
